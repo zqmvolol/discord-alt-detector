@@ -9,7 +9,6 @@
 [![Discord.js](https://img.shields.io/badge/discord.js-v14-blue?style=flat-square&logo=discord)](https://discord.js.org/)
 [![License](https://img.shields.io/badge/license-MIT-green?style=flat-square)](LICENSE)
 [![Node.js](https://img.shields.io/badge/node.js-v16+-brightgreen?style=flat-square&logo=node.js)](https://nodejs.org/)
-[![Stars](https://img.shields.io/github/stars/yourusername/discord-alt-detector?style=flat-square)](https://github.com/zqmvo/discord-alt-detector/stargazers)
 
 [Features](#-features) • [Installation](#-installation) • [Configuration](#-configuration) • [Trust Levels](#-trust-level-system) • [Screenshots](#-screenshots)
 
