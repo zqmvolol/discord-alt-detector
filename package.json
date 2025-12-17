@@ -1,0 +1,27 @@
+{
+  "name": "discord-alt-detector",
+  "version": "1.0.0",
+  "description": "Discord bot to detect and prevent alt accounts from joining your server",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "alt-detector",
+    "security"
+  ],
+  "author": "Lopez",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.14.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  },
+  "engines": {
+    "node": ">=16.9.0"
+  }
+}
